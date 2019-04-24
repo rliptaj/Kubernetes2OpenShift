@@ -1,9 +1,9 @@
 import connexion
 
 
-BOOKS = {'1984': 5,
-         'foo': 1,
-         'bar': 2,
+BOOKS = {'1984': 50,
+         'foo': 10,
+         'bar': 20,
          }
 
 def get_review(name):
